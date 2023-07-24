@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## see
+
+https://dev.d304zzzo6kdp6g.amplifyapp.com/
+
+## reference
+
+https://docs.amplify.aws/start/
+
 ## Available Scripts
 
 In the project directory, you can run:
